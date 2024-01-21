@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Othello
-description: a mental game
+description: Writing a mental game with C language
 img: assets/img/proj1.jpg.jpg
 importance: 1
 category: fun
