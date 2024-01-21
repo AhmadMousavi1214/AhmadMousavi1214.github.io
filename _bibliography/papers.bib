@@ -2,15 +2,8 @@
 ---
 
 @string{aps = {American Physical Society,}}
-<div class="col-sm-3">
-        {%- if entry.teaser -%}
-          {% if entry.teaser contains '://' -%}
-          <img class="teaser" src="{{ entry.teaser }}">
-          {%- else -%}
-          <img class="teaser" src="{{ entry.teaser | prepend: '/assets/img/1.jpg/' | relative_url }}">
-          {%- endif -%}
-        {%- endif -%}
- </div>
+<img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/fig2_media.png">
+
 @book{einstein1956investigations,
   bibtex_show={true},
   title={The Suspended Bird},
