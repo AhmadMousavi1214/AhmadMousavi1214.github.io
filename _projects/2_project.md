@@ -5,7 +5,7 @@ description: a virtual library
 img: assets/img/proj22.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 This project includes a virtual library where you can enter the name of the author and other details of the book and see the list of books that this library gives us. The purpose of this project was to work with SQLITE and PYTHON language .
 
