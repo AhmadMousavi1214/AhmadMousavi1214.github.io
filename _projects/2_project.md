@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
-description: a 
-img: assets/img/prij22.jpg
+title: library
+description: a virtual library
+img: assets/img/proj22.jpg
 importance: 2
 category: work
 giscus_comments: true
